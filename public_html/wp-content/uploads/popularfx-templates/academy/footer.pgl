@@ -1,0 +1,33 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2021-10-29 09:34:44","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"lt915"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#101010ff","ele_padding":["30px","0px","40px","0px"],"pagelayer-id":"9ai9703"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"6","pagelayer-id":"62t3547"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Academy","site_title_state":"normal","text-align":"left","title_color":"#6200eaff","site_title_style":["","30","","","","","Solid","","Capitalize","",""],"title_padding":"0,0,0,0","pagelayer-id":"jgs7449"} /-->
+<!-- sp:pagelayer/pl_text {"ele_css":"{{element}} .pagelayer-text-holder p{font-family:noto sans; font-weight:500; line-height:2; color:#ffffff;}","text":"\u003cp\u003eThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.\u003c\/p\u003e","pagelayer-id":"r1r8613"} --><p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p><!-- /sp:pagelayer/pl_text -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"3","icon_size":"16","color_scheme":"","icon_color":"#ffffffff","social_hover_delay":"400","icon_color_hover":"#6200eaff","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#6200eaff","icon_bg_color_hover":"#ffffffff","social_hover":"hover","ele_margin":["10px","0px","0px","0px"],"pagelayer-id":"cnx9598"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"4wl3699"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"pb05054"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"w2x8177"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-linkedin-in","social_url":"https:\/\/linkedin.com\/sitepad","pagelayer-id":"lro5508"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"2","pagelayer-id":"vnf5175"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"#6200eaff","text":"\u003ch5\u003eQuick Links\u003c\/h5\u003e","pagelayer-id":"45k1124"} --><h5>Quick Links</h5><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"22","list_text_state":"normal","item_indent":"0","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","list_typo":["","14","","500","","","Solid","","Capitalize","",""],"list_color":"#ffffffff","pagelayer-id":"4e21742"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Home","item_url":"||link_id|page|home||","pagelayer-id":"koe6377"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"About Us","item_url":"||link_id|page|about||","pagelayer-id":"k0j4576"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Services","item_url":"||link_id|page|service||","pagelayer-id":"p491513"} -->Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Contact Us","item_url":"||link_id|page|contact||","pagelayer-id":"ftr2396"} -->Contact Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"4","pagelayer-id":"xcy8600"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"#6200eaff","text":"\u003ch5\u003eGet In Touch\u003c\/h5\u003e","pagelayer-id":"lvm5975"} --><h5>Get In Touch</h5><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_address {"icon":"","color":"#ffffffff","ele_margin":"6px,0px,0px,0px","pagelayer-id":"yuj1861"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"","ele_margin":"5px,0px,0px,0px","color":"#ffffffff","linked":"true","pagelayer-id":"50i8761"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"","color":"#ffffffff","align":"flex-start","ele_margin":"10px,0px,0px,0px","linked":"true","pagelayer-id":"epr7055"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#171717ff","ele_padding":"5px,0px,5px,0px","pagelayer-id":"gw35545"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","pagelayer-id":"nuu4788"} -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","align":"left","copyright_text":"\u00a9 2021 Careerist Theme. All right Reserved","pagelayer-id":"f9n1885"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
