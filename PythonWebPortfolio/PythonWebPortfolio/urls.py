@@ -19,14 +19,15 @@ from django.urls import path
 from django.urls import include
 from django.shortcuts import redirect
 
-"""
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('Home_page.urls')),
 ]
 """
-
 urlpatterns = [
     path('', lambda request: redirect('https://thienanle04.github.io/Personal_Website_Project/'), name='home'),
     # Other URL patterns for your app(s) or include additional app URLs
     # path('myapp/', include('myapp.urls')),
 ]
+"""
